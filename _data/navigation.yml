@@ -1,0 +1,23 @@
+# main links links
+main:
+
+  - title: "Education"
+    url: /education
+
+  - title: "Research"
+    url: /research
+
+  - title: "Publications"
+    url: /publications
+
+  - title: "Presentations"
+    url: /presentations
+
+  - title: "Resources"
+    url: /resources
+    
+  - title: "CV"
+    url: /files/CV_ZitongLu.pdf
+    
+  #- title: "Guide"
+  #  url: /markdown/
