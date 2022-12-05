@@ -14,20 +14,16 @@ Below are the topics and projects I am interested in and working on:
 ### Object-location binding  
 > Dynamic saccade context  
 - Dynamic saccade context triggers more stable object-location binding  
-<!--
-- A gating mechanism of spatiotopic object-location binding  
--->
+
+; A gating mechanism of spatiotopic object-location binding  
 > Landmarks  
 - The influence of task-irrelevant landmark on spatiotopic localizer and object-location binding     
-<!--
-- The influence of task-relevant landmark on object-location binding  
--->
+
+; The influence of task-relevant landmark on object-location binding  
 > Object movements  
 - The influence of a moving object’s location on object identity judgements    
-<!--
-- The influence of movement predictability influence object-trajectory binding of a moving object  
--->
 
+; The influence of movement predictability influence object-trajectory binding of a moving object  
 ### Depth and 3D perception  
 > Temporally dynamic brain representations of relative and absolute depth of the object in an image  
 
@@ -38,24 +34,19 @@ Below are the topics and projects I am interested in and working on:
 ; Reconstruction “Small in the distance and big on the contrary” from human brain activity  
 ; An fMRI and EEG dataset of 3D perception task  
 ; How 3D location influence object identity judgement?  
--->
-
 ### Generally spatial representations  
 > Retinotopic and spatiotopic representations in human brains: a fMRI study
-<!--
-> Simulate spatial encoding across eye movements using RNN or SNN**
--->
 
+; Simulate spatial encoding across eye movements using RNN or SNN**
 ### Deep neural networks in cognitive neuroscience  
 > Facial representation comparisons between human brain and hierarchical deep convolutional neural network reveal a fatigue repetition suppression mechanism  
 
 > Image & brain activity bidirectional reconstruction  
 - Decode what we see: Component by component image reconstruction from human fMRI  
-<!--
-- Prediction of brain activity from what you see using self-supervised learning  
-> Face Wheels: construct customized continuous face spaces  
--->
 
+; Prediction of brain activity from what you see using self-supervised learning  
+; Face Wheels: construct customized continuous face spaces  
 ### Attention and working memory  
 > Dynamic object-based encoding and automatically prioritized position encoding in visual working memory  
+
 > Temporal dynamics of neural signature underlying category-tuned attentional filter disruption  
