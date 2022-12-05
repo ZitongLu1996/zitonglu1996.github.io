@@ -70,8 +70,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="202">
-                <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+              <first_editor relative-caret-position="510">
+                <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -184,12 +184,12 @@
       <option name="presentableId" value="Default" />
       <updated>1670125634353</updated>
       <workItem from="1670125637136" duration="177000" />
-      <workItem from="1670191256412" duration="15496000" />
+      <workItem from="1670191256412" duration="16041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15673000" />
+    <option name="totallyTimeSpent" value="16218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1234" height="777" extended-state="0" />
@@ -374,8 +374,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/research.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="202">
-            <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <first_editor relative-caret-position="510">
+            <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           </first_editor>
           <second_editor />
         </state>
