@@ -34,10 +34,10 @@ Below are the topics and projects I am interested in and working on:
 > Temporal perception of image properties in human brains  
 
 > Unfolding the spatiotemporal neural mechanisms of 3D perception in the human brain: an fMRI-EEG fusion study  
-<!--
-> Reconstruction “Small in the distance and big on the contrary” from human brain activity  
-> An fMRI and EEG dataset of 3D perception task  
-> How 3D location influence object identity judgement?  
+
+; Reconstruction “Small in the distance and big on the contrary” from human brain activity  
+; An fMRI and EEG dataset of 3D perception task  
+; How 3D location influence object identity judgement?  
 -->
 
 ### Generally spatial representations  

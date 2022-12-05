@@ -21,5 +21,5 @@ Zhang, M*., **Lu, Z***., Wang, Z. (preprint). Behavioral and neural evidence of 
 
 **Lu, Z**., Ku, Y. (in preparation). Facial representation comparisons between human brain and hierarchical deep convolutional neural network reveal a fatigue repetition suppression mechanism.
 
-Zhang, M*., **Lu, Z***., Otani, S., & Wang, Z. (in preparation). Transcultural differences in the neural correlates of Theory of Mind between Chinese and Japanese: an fMRI study.
+Zhang, M., **Lu, Z**., Otani, S., & Wang, Z. (in preparation). Transcultural differences in the neural correlates of Theory of Mind between Chinese and Japanese: an fMRI study.
 
