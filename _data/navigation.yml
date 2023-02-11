@@ -12,9 +12,6 @@ main:
 
   - title: "Presentations"
     url: /presentations
-
-  - title: "Resources"
-    url: /resources
     
   - title: "CV"
     url: /files/CV_ZitongLu.pdf

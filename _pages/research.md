@@ -8,6 +8,7 @@ author_profile: true
 Living in a complex and dynamic world, we perceive a lot of visual information all the time and integrate them to form our own perception, memory and understanding of this complex and dynamic world. Even though the input information is 2D and changes in the retina, we still have the ability to steadily perceive the world, understand the world and achieve our goals. 
 
 My research is to combine human psychophysics, eye-tracking, neuroimaging (fMRI & EEG), computational methods (linear-regression, MVPA, RSA, IEM and pRF) and deep learning models (CNN, GAN and VAE) to better understand both behavioral and neural mechanisms of visual processing.
+
 Below are the two main topics I am interested in with several subtopics and projects I am working on: 
 
 ### Neural and behavioral meachnisms of visual perception  
