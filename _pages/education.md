@@ -5,7 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-### Education
 ---
 PhD in Cognitive Neuroscience&nbsp;&nbsp;&nbsp;&nbsp;2021-Expected 2025  
 The Ohio State University, Columbus, OH, USA (advisor: Julie D. Golomb)
