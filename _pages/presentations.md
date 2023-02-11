@@ -5,10 +5,22 @@ permalink: /presentations/
 author_profile: true
 ---
 
+05/23/2023&nbsp;&nbsp;Vision Sciences Society (VSS) 2023
+[Poster] Examining Hering’s theory for color responses in human V1 and V4
+
+05/21/2023&nbsp;&nbsp;Vision Sciences Society (VSS) 2023
+[Poster] The influence of a moving object’s location on object identity judgments
+
+05/20/2023&nbsp;&nbsp;Vision Sciences Society (VSS) 2023
+[Poster] The influence of task-irrelevant landmarks on spatiotopic localization and object- location binding
+
+12/31/2022&nbsp;&nbsp;The 2nd Neural Network Interdisciplinary Forum 2022
+[Talk] Facial representation comparisons between human brain and hierarchical deep convolutional neural network reveal a fatigue repetition suppression mechanism
+
 11/12/2022&nbsp;&nbsp;Society of Neuroscience (SFN) 2022  
 [Poster] Dynamic saccade context triggers more stable object-location binding
 
-10/22/2022&nbsp;&nbsp;OSU CCBS retreat 2022  
+10/22/2022&nbsp;&nbsp;OSU CCBS Retreat 2022  
 [Talk] Dynamic saccade context triggers more stable object-location binding
 
 08/27/2022&nbsp;&nbsp;Cognitive Computational Neuroscience (CCN) 2022  

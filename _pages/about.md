@@ -17,8 +17,8 @@ I am the author of [NeuroRA](https://zitonglu1996.github.io/NeuroRA/), a python 
 
 I am interested in **understanding how we process object information in the complex and dynamics world using behavioral, EEG, fMRI and computational approaches**. 
 My main research aims are to:  
-(1) Explore the behavioral and neural mechanisms of spatial representations and object-location binding across eye movements.  
-(2) Unfold the spatiotemporal neural mechanisms of depth and 3D perception.  
-(3) Decode the object and face information from brain activity to better understand our visual systems.
+(1) Visual stability and object-location binding - How to trigger spatiotopic representations and spatiotopic object-location binding in behavior? How do our brains integrate object locations from retinotopic coordinates to spatiotopic coordinates? What's the neural mechanism of object-location binding?
+(2) Depth & 3D perception - How our brains represent depth information of the object in a image? & How do our brain process depth information of the object in the real world and 3D integration in space (using fMRI) and time (using EEG)?
+(3) Brain encoding and decoding models - Using Deep Learning methods to construct the encoder from visual inputs to neural signals, the decoder from neural signals to visual inputs, and inter-individual neural converters.
 
 For details, please see the [Research Section](https://ZitongLu1996.github.io/research).

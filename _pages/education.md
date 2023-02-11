@@ -7,10 +7,10 @@ author_profile: true
 
 ### Education
 ---
-PhD in Cognitive Neuroscience&nbsp;&nbsp;&nbsp;&nbsp;2021-Present  
+PhD in Cognitive Neuroscience&nbsp;&nbsp;&nbsp;&nbsp;2021-Expected 2025  
 The Ohio State University, Columbus, OH, USA (advisor: Julie D. Golomb)
 
-Graduate Minor in Statistics&nbsp;&nbsp;&nbsp;&nbsp;2021-Present  
+Graduate Minor in Statistics&nbsp;&nbsp;&nbsp;&nbsp;2021-Expected 2023  
 The Ohio State University, Columbus, OH, USA
 
 MSci in Psychology&nbsp;&nbsp;&nbsp;&nbsp;2021-2022  

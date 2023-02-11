@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Zitong Lu (路子童)"
   avatar           : "profile.png"
-  bio              : "To be a cognitive neuroscientist."
+  bio              : "To be a cognitive computational neuroscientist."
   location         : "Columbus, OH, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=bE5VCKsAAAAJ"
+  email            : "lu.2637@osu.edu"
+  researchgate     : "https://www.researchgate.net/profile/Zitong-Lu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ZitongLu1996"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7953-6742"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
