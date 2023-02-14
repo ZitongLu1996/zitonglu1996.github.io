@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in cognitive neuroscience working with [Dr. Julie Golomb](https://psychology.osu.edu/people/golomb.9) in [Vision and Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) at The Ohio State University. 
+I am Zitong Lu (路子童 in Chinese), a second-year PhD student in cognitive neuroscience working with [Dr. Julie Golomb](https://psychology.osu.edu/people/golomb.9) in [Vision and Cognitive Neuroscience Lab](https://u.osu.edu/golomblab/) at The Ohio State University. 
 Also, I am the OSU EEGlab manager！
 
 Before that, I received B.Eng. in software engineering from Northeastern University in China in 2018 and M.S. in cognitive neuroscience from East China Normal University in 2021. 
