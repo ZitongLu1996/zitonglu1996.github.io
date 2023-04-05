@@ -14,6 +14,12 @@ author_profile: true
 05/20/2023&nbsp;&nbsp;Vision Sciences Society (VSS) 2023
 [Poster] The influence of task-irrelevant landmarks on spatiotopic localization and object- location binding
 
+03/31/2023&nbsp;&nbsp;CogNeuro Prosem, OSU
+[Talk] Generate your neural signals from mine: individual-to-individual EEG converters
+
+03/08/2023&nbsp;&nbsp;CogPsy Prosem, OSU
+[Talk] Object real-world size representations in human brains and artificial neural networks
+
 12/31/2022&nbsp;&nbsp;The 2nd Neural Network Interdisciplinary Forum 2022
 [Talk] Facial representation comparisons between human brain and hierarchical deep convolutional neural network reveal a fatigue repetition suppression mechanism
 
@@ -27,6 +33,9 @@ author_profile: true
 [Poster] Gaze-centered spatial representations in human hippocampus
 
 05/17/2022&nbsp;&nbsp;Vision Sciences Society (VSS) 2022  
+[Talk] Dynamic saccade context triggers spatiotopic object-location binding
+
+04/15/2022&nbsp;&nbsp;CogNeuro Prosem, OSU 
 [Talk] Dynamic saccade context triggers spatiotopic object-location binding
 
 12/06/2021&nbsp;&nbsp;OSU CCBBI Research Day 2021  

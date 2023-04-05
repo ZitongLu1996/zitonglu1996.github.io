@@ -21,7 +21,13 @@ You can also find the list of publications on my [CV](/files/CV_ZitongLu.pdf) or
 
 Zhang, M*., **Lu, Z**., Wang, Z. (preprint). Behavioral and neural evidence of musical learning improving audiovisual matching ability. PsyArXiv. https://doi.org/10.31234/osf.io/w74nr [[Pdf](https://zitonglu1996.github.io/files/Zhang_Lu_Wang_PsyArXiv_2022.pdf)]
 
-**Lu. Z**., Golomb, J.D. (in preparation). Dynamic saccade context triggers more stable object-location binding.
+**Lu. Z**., & Golomb, J.D. (in preparation). Object real-world size representations in human brains and artificial neural networks.
+
+**Lu. Z**., & Golomb, J.D. (in preparation). The influence of task-irrelevant landmarks on spatiotopic localization and object-location binding.
+
+**Lu. Z**., Ran. M., & Golomb, J.D. (in preparation). The influence of a moving object’s location on object identity judgements.
+
+**Lu. Z**., & Golomb, J.D. (in preparation). Dynamic saccade context triggers more stable object-location binding.
 
 Zhang, M., **Lu, Z**., Otani, S., & Wang, Z. (in preparation). Transcultural differences in the neural correlates of Theory of Mind between Chinese and Japanese: an fMRI study.
 
