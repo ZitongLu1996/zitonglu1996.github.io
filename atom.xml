@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Zitong Lu</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2024-01-03T03:56:52-05:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://zitonglu1996.github.io//atom.xml" rel="self"/>
+ <link href="https://zitonglu1996.github.io//"/>
+ <updated>2024-04-22T09:14:24-04:00</updated>
+ <id>https://zitonglu1996.github.io/</id>
  <author>
    <name>Zitong</name>
    <email></email>
